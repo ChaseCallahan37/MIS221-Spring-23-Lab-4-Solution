@@ -31,9 +31,9 @@ static void MenuOptions(){
 }
 
 static void GetFull(){
-
-    for (int i = 6; i > 0; i--){
-        for (int j = i; j < 6; j++){
+    int rows = GetRandomRows();
+    for (int i = rows; i > 0; i--){
+        for (int j = i; j < rows; j++){
             System.Console.Write("O\t");
         }
         System.Console.WriteLine();
@@ -41,9 +41,10 @@ static void GetFull(){
 }
 
 static void GetPartial(){
- for (int i = 6; i > 0; i--){
-        for (int j = i; j < 6; j++){
-            if(GetRando() == 1){
+    int rows = GetRandomRows();
+    for (int i = rows; i > 0; i--){
+        for (int j = i; j < rows; j++){
+            if(FiftyFifty() == 1){
 
             System.Console.Write("O\t");
             }
@@ -52,10 +53,15 @@ static void GetPartial(){
     }
 }
 
-static int GetRando(){
+static int FiftyFifty(){
     Random rnd = new Random();
     return rnd.Next(2);
             
+}
+
+static int GetRandomRows(){
+    Random rnd = new Random();
+    return rnd.Next(3, 9);
 }
 
 static void Goodbye(){
