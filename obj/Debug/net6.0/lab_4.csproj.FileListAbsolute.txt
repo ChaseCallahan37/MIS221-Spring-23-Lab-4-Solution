@@ -1,0 +1,15 @@
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\bin\Debug\net6.0\lab_4.exe
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\bin\Debug\net6.0\lab_4.deps.json
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\bin\Debug\net6.0\lab_4.runtimeconfig.json
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\bin\Debug\net6.0\lab_4.dll
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\bin\Debug\net6.0\lab_4.pdb
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\lab_4.csproj.AssemblyReference.cache
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\lab_4.AssemblyInfoInputs.cache
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\lab_4.AssemblyInfo.cs
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\lab_4.dll
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\refint\lab_4.dll
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\lab_4.pdb
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\lab_4.genruntimeconfig.cache
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\lab_4\obj\Debug\net6.0\ref\lab_4.dll
